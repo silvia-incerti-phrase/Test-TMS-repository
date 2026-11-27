@@ -1,0 +1,7 @@
+{
+  "test.title": "This is a test",
+  "test.add": "Add to test project",
+  "test.empty": "Your test is empty. Add content.",
+  "test.write": "Write a test file",
+  "footer.copyright": "© {year} Acme Inc. All rights reserved."
+}
