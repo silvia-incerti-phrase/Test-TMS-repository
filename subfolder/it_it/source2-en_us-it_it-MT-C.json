@@ -1,0 +1,7 @@
+{
+  "test.title": "Questo è un test",
+  "test.add": "Aggiungi al progetto di test",
+  "test.empty": "Il tuo test è vuoto. Aggiungi contenuti.",
+  "test.write": "Scrivere un file di test",
+  "footer.copyright": "© {year} Acme Inc. Tutti i diritti riservati."
+}

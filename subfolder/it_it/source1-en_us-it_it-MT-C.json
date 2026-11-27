@@ -1,0 +1,12 @@
+{
+  "wishlist.title": "La tua lista dei desideri",
+  "wishlist.add": "Aggiungi alla lista dei desideri",
+  "wishlist.empty": "La tua lista dei desideri è vuota. Salva gli oggetti che ti piacciono per dopo.",
+  "reviews.title": "Recensioni dei clienti",
+  "reviews.write": "Scrivi una recensione",
+  "reviews.rating_summary": "{rating} su 5 stelle ({count}recensioni)",
+  "newsletter.title": "Rimani aggiornato",
+  "newsletter.subscribe": "Abbonati",
+  "newsletter.success": "Sei abbonato! Controlla la tua casella di posta per confermare.",
+  "footer.copyright": "© {year} Acme Inc. Tutti i diritti riservati."
+}
