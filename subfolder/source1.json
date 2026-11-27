@@ -1,0 +1,12 @@
+{
+  "wishlist.title": "Your wishlist",
+  "wishlist.add": "Add to wishlist",
+  "wishlist.empty": "Your wishlist is empty. Save items you love for later.",
+  "reviews.title": "Customer reviews",
+  "reviews.write": "Write a review",
+  "reviews.rating_summary": "{rating} out of 5 stars ({count} reviews)",
+  "newsletter.title": "Stay in the loop",
+  "newsletter.subscribe": "Subscribe",
+  "newsletter.success": "You're subscribed! Check your inbox to confirm.",
+  "footer.copyright": "© {year} Acme Inc. All rights reserved."
+}
